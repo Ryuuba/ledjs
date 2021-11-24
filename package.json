@@ -1,0 +1,27 @@
+{
+  "name": "ledjs",
+  "version": "1.0.0",
+  "description": "A simple server that controls a LED",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryuuba/ledjs.git"
+  },
+  "keywords": [
+    "Test",
+    "CodigoIoT",
+    "Learning"
+  ],
+  "author": "A. G. Medrano-Chávez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ryuuba/ledjs/issues"
+  },
+  "homepage": "https://github.com/Ryuuba/ledjs#readme",
+  "dependencies": {
+    "onoff": "^6.0.3"
+  }
+}
